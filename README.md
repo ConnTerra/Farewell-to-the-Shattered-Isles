@@ -6,7 +6,7 @@ The Party
 Locations
 
 NPCs
-	Deities
-	Elder Dragons
-	Villains 
-	Misc
+>Deities
+>Elder Dragons
+>Villains 
+>Misc
